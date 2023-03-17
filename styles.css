@@ -32,6 +32,7 @@ nav ul {
     display: flex;
     justify-content: space-around;
     list-style: none;
+    text-transform: uppercase;
 }
 
 nav ul li a {
@@ -163,6 +164,6 @@ h3 {
     transition: background-color 0.3s;
 }
 
-.button:hover {
+#connect-wallet:hover {
     background-color: #555;
 }
